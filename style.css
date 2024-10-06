@@ -1,7 +1,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: rgb(31, 27, 139);
+    background-color: hsla(277, 32%, 50%, 0.959);
     margin: 0;
     padding: 0;
     display: flex;
